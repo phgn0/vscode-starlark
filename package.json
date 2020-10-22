@@ -9,13 +9,13 @@
         "name": "Peter Hagen"
     },
     "license": "MIT",
-    "homepage": "https://github.com/phgn0/vscode-starklark",
+    "homepage": "https://github.com/phgn0/vscode-starlark",
     "repository": {
         "type": "git",
-        "url": "https://github.com/phgn0/vscode-starklark"
+        "url": "https://github.com/phgn0/vscode-starlark"
     },
     "bugs": {
-        "url": "https://github.com/phgn0/vscode-starklark/issues"
+        "url": "https://github.com/phgn0/vscode-starlark/issues"
     },
     "qna": "https://stackoverflow.com/questions/tagged/visual-studio-code+python",
     "icon": "icon.png",
